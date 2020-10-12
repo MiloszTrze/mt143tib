@@ -38,7 +38,7 @@ Moja dokumentacja dotycząca pracy w domu na zajęcia Tworzenie stron i aplikacj
 Instalacja została wykonana na zajęciach.
  
 ```
-https://g...content-available-to-author-only...b.com/Michal3456/mc00nau
+https://github.com/MiloszTrze/mt143tib
 ```
  
 ## Cel i funkcje
@@ -50,10 +50,10 @@ https://g...content-available-to-author-only...b.com/Michal3456/mc00nau
 ## Wkład projektowy
  
 * Główny nadzór: https://g...content-available-to-author-only...b.com/Michal3456
-* Kod projektu: https://g...content-available-to-author-only...b.com/Michal3456
- 
+* Kod projektu: https://github.com/MiloszTrze
 ## Licencja
  
 Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje można znaleźć w dołączonym pliku LICENCJA.
  
-## Autor
+## Autor 
+Miłosz Trzebiatowski
